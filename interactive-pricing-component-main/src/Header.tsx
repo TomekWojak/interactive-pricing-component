@@ -7,10 +7,10 @@ export function Header() {
 				src={patternCircles}
 				alt=""
 			/>
-			<h1 className="z-10 font-bold text-lg md:text-xl lg:text-3xl mb-3">
+			<h1 className="z-10 font-bold text-lg md:text-xl lg:text-3xl xl:text-[2.2rem] mb-3">
 				Simple, traffic-based pricing
 			</h1>
-			<p className="text-md md:text-lg text-[hsl(225,20%,60%)]">
+			<p className="text-md font-medium md:text-lg text-[hsl(225,20%,60%)]">
 				Sign up for our 30-day trial. No credit card requaired
 			</p>
 		</header>
